@@ -2,7 +2,7 @@
 <div id="bio">
 <p>Hello there! This is Manuel!</p>
 <p>I´m a full stack developer - based in Seville (Spain).</p>
-<p>I study at University of Seville and continue my learning period by myself.</p>
+<p>I studied at University of Seville and continue my learning period by myself.</p>
 <p>I love algorithms and solve complex problems using them. As long I've been taking hands on complex projects I've understood the utility of Best Practices and why are that important. Thas why I follow (the best I can) the programming principles as SOLID, KISS or DRY.</p>
 <p>At my current role I've found a new passion and it's to mentorice. I've been really lucky getting the change to mentorice juniors dev and helping them to grow.</p>
 </div>
