@@ -13,15 +13,6 @@
   </a>
 </div>
 <div>
-  <h2>Some interesting stats</h2>
-  <span>Contributions:</span>
-  <br/>
-  <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manelcecs&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
-</p>
-  <br/>
-  <span>Most used languages:</span>
-  <br/>
   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manelcecs&layout=compact&theme=vision-friendly-dark">
